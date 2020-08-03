@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">higherOrLower</string>
+    <string name="headline">Higher / Lower</string>
+    <string name="text1">I am thinking of number between 1 to 20</string>
+    <string name="text2">Can You Guess It ?</string>
+    <string name="buttonText">GUESS</string>
+    <string name="number">number</string>
+</resources>
